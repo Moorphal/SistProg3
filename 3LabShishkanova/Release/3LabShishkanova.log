@@ -1,0 +1,27 @@
+﻿  Source.cpp
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(138,39): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(139,46): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(139,27): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(149,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(149,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(150,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(150,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(160,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(160,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(161,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(161,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(171,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(171,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(172,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(172,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(182,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(182,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(183,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(183,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Системное программирование\3Lab\3LabShishkanova\Source.cpp(91,17): warning C4101: apt: неиспользованная локальная переменная
+  Создание кода
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  3LabShishkanova.vcxproj -> D:\Системное программирование\3Lab\3LabShishkanova\Release\3LabShishkanova.exe
